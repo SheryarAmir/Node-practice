@@ -1,0 +1,16 @@
+REST API -JSON
+
+GET/api/user -list all users
+
+Dynamic path parameters
+GET/api/user/:id -get user by id SO :id mean dynamic path where you can access any id from the data. 
+:id=>variable
+
+GET/api/user/1 -get user by id 1
+GET/api/user/2 -get user by id 2
+
+POST/api/users -create new user
+
+PATCH/api/users/1 -Eidit the user with ID 1
+
+DELETE/api/users/ -Delete the user with ID 1

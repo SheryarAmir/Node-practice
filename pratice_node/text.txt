@@ -1,0 +1,4 @@
+schema-define the structure
+
+schema-modle
+using this schma we do CRUD opeation (create,Updata, Delete ,)
